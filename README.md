@@ -1,13 +1,16 @@
-# Kaggle Comps Workspace
+# 🏆 Kaggle Competitions notebooks
 
-This repository contains notebooks and data for Kaggle competition.
+A collection of high-ranking Kaggle competition notebooks across Tabular ML, NLP, and Computer Vision.
 
-Contents
-- `Applai's Comp/` — notebooks and data for one competition (examples: `flow1.ipynb`, `nn.ipynb`, `train.csv`, `test.csv`, `sample_submission.csv`).
-- `comp2/` — additional competition work.
+This repo contains:
+- Winning and top-performing solutions
+- Ensemble & stacking systems
+- Transformer and LLM pipelines
+- Deep learning experiments
+- Feature engineering frameworks
+- Hyperparameters optimization
+- Efficient competition workflows
 
-Quick usage
-- Open the relevant notebook (e.g. `flow1.ipynb`) in Jupyter or VS Code.
-- Create a Python environment and install requirements.txt.
-- Load data from the folder containing `train.csv` and `test.csv` and run the notebooks interactively.
+Models range from classic boosting systems to large transformer architectures and multimodal approaches.
 
+Built for leaderboard performance, rapid experimentation, and pushing state-of-the-art ideas under competition constraints.
